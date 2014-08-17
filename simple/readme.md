@@ -1,5 +1,8 @@
-# Reusable Components using Browserify - Raynos' example from https://github.com/Raynos/forwardjs2014-talk
+# Reusable Components using Browserify
 
+Raynos' example from https://github.com/Raynos/forwardjs2014-talk
+
+* [Setup](#setup)
 * [Build](#build)
 * [Run](#run)
 

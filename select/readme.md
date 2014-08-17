@@ -1,5 +1,8 @@
-# Reusable Components using Browserify - https://github.com/nrw/fancy-select
+# Reusable Components using Browserify
 
+https://github.com/nrw/fancy-select
+
+* [Setup](#setup)
 * [Build](#build)
 * [Run](#run)
 
