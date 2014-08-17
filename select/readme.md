@@ -1,4 +1,4 @@
-# Reusable Components using Browserify
+# Mercury Component
 
 https://github.com/nrw/fancy-select
 

@@ -1,4 +1,4 @@
-# Reusable Components using Browserify
+# Mercury Component
 
 Raynos' example from https://github.com/Raynos/forwardjs2014-talk
 
