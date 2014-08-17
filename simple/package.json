@@ -1,0 +1,12 @@
+{
+  "name": "reusable-components",
+  "version": "1.0.0",
+  "scripts": {
+    "build-js": "browserify demo.js > bundle.js"
+  },
+  "dependencies": {
+    "browserify": "^4.1.5",
+    "cuid": "^1.2.4",
+    "mercury": "^6.0.1"
+  }
+}
