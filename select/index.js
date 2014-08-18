@@ -1,10 +1,10 @@
 var RCSS = require('rcss');
 var mercury = require('mercury');
 var FancySelect = require('fancy-select');
-var comp;
-var options;
 
-comp = FancySelect({
+var component;
+
+component = FancySelect({
   options: [{
     id: 'a',
     title: 'A'
@@ -23,6 +23,4 @@ comp = FancySelect({
 
 RCSS.injectAll();
 
-var div = document.createElement('div');
-document.body.insertBefore(div, document.body.childNodes[0]);
-mercury.app(div, comp.state, FancySelect.render);
+mercury.app(document.body, component.state, FancySelect.render);
