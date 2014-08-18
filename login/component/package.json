@@ -1,0 +1,16 @@
+{
+  "name": "component",
+  "version": "0.0.0",
+  "description": "",
+  "main": "login-component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mercury": "^6.0.1",
+    "rcss": "git://github.com/chenglou/rcss#424fc1ac17cdc2860736f73722e8135be96e1ba6",
+    "valid-email": "0.0.1"
+  }
+}

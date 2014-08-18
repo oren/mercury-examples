@@ -4,3 +4,6 @@ select/node_modules
 select/bundle.js
 simple/node_modules
 simple/bundle.js
+login/node_modules
+login/bundle.js
+login/component/node_modules
