@@ -7,3 +7,5 @@ simple/bundle.js
 login/node_modules
 login/bundle.js
 login/component/node_modules
+counter/bundle.js
+counter/node_modules
