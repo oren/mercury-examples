@@ -9,3 +9,5 @@ login/bundle.js
 login/component/node_modules
 counter/bundle.js
 counter/node_modules
+server-side/bundle.js
+server-side/node_modules
