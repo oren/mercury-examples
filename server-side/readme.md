@@ -12,4 +12,5 @@ https://github.com/Raynos/mercury/tree/master/examples/server-rendering
     npm run build-js
 
 ## Run
-    open index.html
+    node server.js
+    go to 0.0.0.0:8000

@@ -5,9 +5,11 @@
     "build-js": "browserify browser.js > bundle.js"
   },
   "dependencies": {
+    "browserify": "^5.11.0",
     "json-globals": "^0.2.1",
     "mercury": "^6.0.1",
-    "vdom-virtualize": "0.0.3"
+    "vdom-virtualize": "0.0.3",
+    "virtual-dom-stringify": "^0.6.0"
   },
   "devDependencies": {
     "tape": "^2.14.0"
